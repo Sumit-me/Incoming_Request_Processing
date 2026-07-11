@@ -98,7 +98,7 @@ For each request processed, the app produces:
 - recent processed request history
 
 ## 6.1 Screenshot example
-![Response screenshot](screenshots/response_screenshot.png)
+![Response screenshot](screenshots/response_screenshot.jpeg)
 
 ## 7. Sample inputs
 Here are sample requests for each branch:
