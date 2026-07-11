@@ -1,0 +1,151 @@
+[
+    {
+        "customer_name": "Carlos",
+        "email": "ssssss@gmail.com",
+        "subject": "Money issue",
+        "description": "Account money transfered in wrong account. need help to revert it",
+        "request_type": "Escalation / Urgent",
+        "urgency": "Critical",
+        "actions": [
+            "Acknowledgement Generated",
+            "Escalated to Fraud and Payments Resolution Team",
+            "Supervisor Alert Triggered",
+            "Human Review of Transaction Details",
+            "Follow-up Reminder Created"
+        ],
+        "assigned_team": "Fraud and Payments Resolution Team",
+        "follow_up": "1 Hour",
+        "response": "Dear Customer, \n\nWe understand the urgency of your situation regarding the incorrect money transfer. Your request has been escalated to our Fraud and Payments Resolution Team for immediate investigation. A supervisor has also been alerted to ensure prompt handling. We will work swiftly to resolve this and keep you updated within the next hour.\n\nThank you for your patience and understanding.\n\nBest regards,\nCustomer Support Team",
+        "processed_at": "2026-07-12 01:52:50"
+    },
+    {
+        "customer_name": "Uploaded request",
+        "email": "",
+        "subject": "Account blocked after suspicious login",
+        "description": "My account was locked after I saw unknown activity. Please check and escalate as urgent.",
+        "request_type": "Escalation / Urgent",
+        "urgency": "Critical",
+        "actions": [
+            "Acknowledgement Generated",
+            "Account Lock Status Verified",
+            "Suspicious Activity Investigated",
+            "Supervisor Alerted for Immediate Review",
+            "Escalated to Security Operations Team",
+            "Customer Account Security Measures Initiated",
+            "Follow-up Reminder Created"
+        ],
+        "assigned_team": "Security Operations",
+        "follow_up": "1 Hour",
+        "response": "Dear Customer,\n\nThank you for reaching out to us. We understand your concern regarding the suspicious activity and the subsequent account lock. For your security, your account has been temporarily locked while we investigate the issue. Our Security Operations team has been alerted and is working urgently to review the activity and restore your access as quickly as possible.\n\nWe will keep you updated on the progress and may reach out if we need additional information from you. Thank you for your patience and understanding.\n\nBest regards,\nCustomer Support Team",
+        "processed_at": "2026-07-12 01:55:59"
+    },
+    {
+        "customer_name": "User1",
+        "email": "user1@gmail.com",
+        "subject": "Billing error on last invoice",
+        "description": "I was charged twice for last month\u2019s service invoice. Please correct the error, refund the duplicate charge, and escalate this to a priority support team.",
+        "request_type": "Escalation / Urgent",
+        "urgency": "High",
+        "actions": [
+            "Acknowledgement Generated",
+            "Escalated to Billing Support Priority Team",
+            "Supervisor Alert Triggered",
+            "Human Review of Invoice and Charges",
+            "Refund Process Initiated for Duplicate Charge",
+            "Follow-up Reminder Created"
+        ],
+        "assigned_team": "Billing Support",
+        "follow_up": "1 Hour",
+        "response": "Dear Customer,\n\nThank you for bringing this to our attention. We sincerely apologize for the inconvenience caused by the duplicate charge on your last invoice. We have escalated your case to our priority Billing Support team for immediate review. A supervisor has also been alerted to ensure this issue is resolved promptly. We are currently investigating the charge and will process a refund for the duplicate amount as soon as possible.\n\nWe appreciate your patience and will update you within the next hour with the resolution status.\n\nBest regards,\nCustomer Support Team",
+        "processed_at": "2026-07-12 03:18:06"
+    },
+    {
+        "customer_name": "User2",
+        "email": "user2@gmail.com",
+        "subject": "How do I reset my password?",
+        "description": "I need instructions for resetting my account password and whether multi-factor authentication is required. Please explain the process step by step.",
+        "request_type": "General Enquiry",
+        "urgency": "Low",
+        "actions": [
+            "Acknowledgement Generated",
+            "Provided Password Reset Instructions",
+            "Follow-up Reminder Created"
+        ],
+        "assigned_team": "Customer Support",
+        "follow_up": "3 Days",
+        "response": "Dear Customer,\n\nThank you for reaching out with your enquiry about resetting your account password. Here is a step-by-step guide to help you reset your password:\n\n1. Go to the login page of our website.\n2. Click on the 'Forgot Password' link.\n3. Enter the email address associated with your account and submit the form.\n4. Check your email inbox for a password reset link. If you don't see it, please check your spam or junk folder.\n5. Click on the link provided in the email, which will direct you to the password reset page.\n6. Enter your new password and confirm it.\n7. Submit the form to complete the password reset process.\n\nRegarding multi-factor authentication (MFA), it is not mandatory to reset your password. However, we highly recommend enabling MFA on your account for enhanced security. You can enable MFA by going to your account settings after logging in.\n\nIf you need any further assistance, please don't hesitate to contact us.\n\nBest regards,\nCustomer Support Team",
+        "processed_at": "2026-07-12 03:20:06"
+    },
+    {
+        "customer_name": "User3",
+        "email": "user3@gmail.com",
+        "subject": "Request access to sales dashboard",
+        "description": "I need my account permissions updated so I can access the sales reporting dashboard. Please assign this request to the access management team and provide an ETA.",
+        "request_type": "Service Request",
+        "urgency": "Medium",
+        "actions": [
+            "Acknowledgement Generated",
+            "Assigned to Access Management",
+            "Follow-up Reminder Created"
+        ],
+        "assigned_team": "Access Management",
+        "follow_up": "24 Hours",
+        "response": "Dear Customer,\n\nThank you for reaching out. We have received your request to update your account permissions to access the sales reporting dashboard. Your request has been assigned to our Access Management team. You can expect an update within the next 24 hours.\n\nIf you have any further questions or need additional assistance, please don't hesitate to contact us.\n\nBest regards,\nSupport Team",
+        "processed_at": "2026-07-12 03:20:52"
+    },
+    {
+        "customer_name": "DemoUser",
+        "email": "DemoUser@gmail.com",
+        "subject": "SMS Fraud",
+        "description": "Getting same fraud sms with bank fraud mail id. need your assistence",
+        "request_type": "Complaint",
+        "urgency": "High",
+        "actions": [
+            "Acknowledgement Generated",
+            "Escalated to Fraud Prevention Team",
+            "Supervisor Alert Created",
+            "Follow-up Reminder Created"
+        ],
+        "assigned_team": "Fraud Prevention Team",
+        "follow_up": "1 Hour",
+        "response": "Dear Customer, \n\nWe are sorry to hear that you are receiving fraudulent SMS messages impersonating our bank. Your security is our top priority. We have escalated this issue to our Fraud Prevention Team for immediate investigation. Please do not respond to or click on any links in these messages. We will keep you updated on the progress and advise you on any further steps to protect your account.\n\nThank you for bringing this to our attention.\n\nBest regards,\nCustomer Support Team",
+        "processed_at": "2026-07-12 04:03:29"
+    },
+    {
+        "customer_name": "DemoUser1",
+        "email": "DemoUser1@gmail.com",
+        "subject": "How can i check account balance",
+        "description": "Tell me the step to check the account balance",
+        "request_type": "General Enquiry",
+        "urgency": "Low",
+        "actions": [
+            "Acknowledgement Generated",
+            "Provided Step-by-Step Instructions",
+            "Follow-up Reminder Created"
+        ],
+        "assigned_team": "Customer Support",
+        "follow_up": "48 Hours",
+        "response": "Dear Customer,\n\nThank you for reaching out. To check your account balance, please follow these steps:\n\n1. Log in to your online banking account via our website or mobile app.\n2. Navigate to the 'Accounts' section.\n3. Select the account you wish to check.\n4. Your current balance will be displayed on the account summary page.\n\nIf you need any further assistance, please feel free to contact us.\n\nBest regards,\nCustomer Support Team",
+        "processed_at": "2026-07-12 04:04:22"
+    },
+    {
+        "customer_name": "Uploaded request",
+        "email": "",
+        "subject": "Account blocked after suspicious login",
+        "description": "My account was locked after I saw unknown activity. Please check and escalate as urgent.",
+        "request_type": "Escalation / Urgent",
+        "urgency": "Critical",
+        "actions": [
+            "Acknowledgement Generated",
+            "Account Lock Investigation Initiated",
+            "Escalated to Security Operations Team",
+            "Supervisor Alert Created",
+            "Human Review of Account Activity",
+            "Follow-up Reminder Created"
+        ],
+        "assigned_team": "Security Operations",
+        "follow_up": "1 Hour",
+        "response": "Dear Customer,\n\nThank you for reaching out to us. We understand your concern regarding the suspicious activity and the subsequent account lock. For your security, your account has been temporarily locked while we investigate the issue.\n\nOur Security Operations team has been alerted and is currently reviewing your account activity. We are treating this matter with the highest priority and will update you within the next hour.\n\nIf you have any additional information or concerns, please do not hesitate to contact us.\n\nThank you for your patience and understanding.\n\nBest regards,\nCustomer Support Team",
+        "processed_at": "2026-07-12 04:05:01"
+    }
+]

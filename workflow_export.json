@@ -1,0 +1,46 @@
+{
+  "workflow": {
+    "branches": [
+      {
+        "request_type": "Complaint",
+        "urgency": ["Medium", "High", "Critical"],
+        "remediation_steps": [
+          "Acknowledge receipt",
+          "Escalate to senior handler",
+          "Log case with priority flag",
+          "Set follow-up reminder"
+        ]
+      },
+      {
+        "request_type": "General Enquiry",
+        "urgency": ["Low", "Medium"],
+        "remediation_steps": [
+          "Classify sub-topic",
+          "Generate AI response from knowledge base",
+          "Send response",
+          "Log as resolved"
+        ]
+      },
+      {
+        "request_type": "Service Request",
+        "urgency": ["Low", "Medium", "High"],
+        "remediation_steps": [
+          "Extract required details",
+          "Route to relevant department",
+          "Generate confirmation to requester",
+          "Set SLA timer"
+        ]
+      },
+      {
+        "request_type": "Escalation / Urgent",
+        "urgency": ["Critical"],
+        "remediation_steps": [
+          "Flag for human review",
+          "Draft urgent acknowledgement",
+          "Notify supervisor",
+          "Pause auto-resolution"
+        ]
+      }
+    ]
+  }
+}
